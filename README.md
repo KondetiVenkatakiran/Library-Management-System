@@ -28,17 +28,17 @@ Interest
 Exploring Peewee ORM’s features, such as foreign key relationships and query-building, aligns with modern database practices taught in class. The project offers opportunities to deepen understanding of database normalization and web integration.
 3. Contributions of Each Team Member
 	•	Member 1:
-	•	Lead backend development with a focus on database integration using SQLite and Peewee ORM.
-	•	Create APIs for user and role CRUD operations and ensure database normalization.
-	•	Ensure data integrity and test API endpoints using tools like Postman.
+	•	Designed and implemented core CRUD functionality for users and roles.
+	•	Set up database schema using Peewee ORM.
+	•	Integrated the SQLite database with Bottle routes.
 	•	Member 2:
-	•	Design and implement the frontend templates for user and role management.
-	•	Work on user-friendly forms, dropdown menus, and the integration of foreign key data.
-	•	Handle frontend-backend communication through AJAX or Fetch APIs.
+	•	Created front-end templates using HTML and Bottle’s template engine.
+	•	Handled form submissions and ensured user-friendly navigation.
+	•	Designed the UI for task and category pages.
 	•	Member 3:
-	•	Test the application for functionality, performance, and security.
-	•	Write unit and integration tests for the backend using pytest.
-	•	Document the project with detailed user and developer guides.
+	•	Tested application functionality and fixed bugs in the backend logic.
+	•	Implemented validation logic for user input.
+	•	Documented the code and prepared project submission materials.
 4. Success Criteria
 The project will be considered successful if it meets the following criteria:
 	1.	All CRUD operations (Create, Read, Update, Delete) for users and user roles are fully functional.
